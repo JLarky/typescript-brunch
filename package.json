@@ -1,5 +1,5 @@
 {
-  "name": "typescript-brunch",
+  "name": "brunch-typescript",
   "version": "2.3.0",
   "description": "Adds TypeScript support to Brunch.",
   "author": "Baptiste Donaux <baptiste.donaux@gmail.com>",
